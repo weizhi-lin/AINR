@@ -3,7 +3,7 @@ This repository contains the MATLAB implementation described in our paper _"AINR
 
 **Repository Structure**
 
-**Toolbox/** – Core functions for mesh processing.\
+**Toolbox/** – Core functions for mesh processing.
 - Please download the Geometry Processing Toolbox https://github.com/alecjacobson/gptoolbox
 - Please download the toolbox from Bounded distortion matching of Gaussian Process Landmarks https://github.com/shaharkov/GPLmkBDMatch
 
