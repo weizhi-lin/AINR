@@ -3,9 +3,9 @@ This repository contains the MATLAB implementation described in our paper _"AINR
 
 **Repository Structure**
 
-**Toolbox/** – Core functions for mesh processing.
-- Please download the Geometry Processing Toolbox https://github.com/alecjacobson/gptoolbox
-- Please download the toolbox from Bounded distortion matching of Gaussian Process Landmarks https://github.com/shaharkov/GPLmkBDMatch
+**Toolbox/** – Please create a folder and store the core functions for mesh processing, including:
+- Geometry Processing Toolbox https://github.com/alecjacobson/gptoolbox
+- The toolbox from Bounded distortion matching of Gaussian Process Landmarks https://github.com/shaharkov/GPLmkBDMatch
 
 **myfunction/** – Functions for deviation-aware shape segmentation and diffeomorphic registration.
 
